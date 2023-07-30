@@ -1,16 +1,4 @@
-# first_app
+![sp1](https://github.com/dharun-08/diceFlutter/assets/91736058/679712d7-4c6f-47a7-ac4f-de56bc36c630)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sp2](https://github.com/dharun-08/diceFlutter/assets/91736058/b87d24be-7ce2-4f2f-97d4-71396d6844c4)
